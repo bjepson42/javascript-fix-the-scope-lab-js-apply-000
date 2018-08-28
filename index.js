@@ -1,5 +1,5 @@
 var animal = 'dog'
-var yourAnimal = 'cat'
+var yourAnimalxx = 'cat'
 
 function myAnimal() {
   return animal
@@ -11,7 +11,7 @@ function yourAnimal() {
   // P.S.: You can't just hard-code 'cat' below
 
   
-  return yourAnimal
+  return yourAnimalxx
 }
 
 function add2(n) {
